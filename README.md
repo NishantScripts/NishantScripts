@@ -3,9 +3,19 @@
 I'm a 1st-year Computer Science Engineering student passionate about writing clean code and building practical solutions. I'm actively expanding my knowledge in Data Science, Cloud applications, and software debugging.
 
 ### 🛠️ Tech Stack & Skills
-* **Languages:** Python, C, C#
-* **Core Competencies:** Data Processing, Automation, Troubleshooting & Debugging, Cybersecurity Basics
-* **Tools:** AWS, Git, VS Code
+
+**Programming Languages** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+**Cloud & Tools** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Core Competencies** * 🔍 **Troubleshooting & Debugging** (Google Certified)
+* 🛡️ **Cybersecurity Basics** (Cisco Certified)
+* 📊 **Data Processing & Automation**
+* 
 
 ### 🏆 Licenses & Certifications
 I actively pursue continuous learning. Here is my complete verified credential portfolio:
