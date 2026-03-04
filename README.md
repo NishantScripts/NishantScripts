@@ -44,6 +44,7 @@ I actively pursue continuous learning. Here is my complete verified credential p
 📫 **Reach out to me:** Drop me an email at **nishantwalse@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/nishant-walse)!
 ---
 ### 📊 GitHub Stats
+
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishantScripts&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantScripts&layout=compact&theme=tokyonight)
