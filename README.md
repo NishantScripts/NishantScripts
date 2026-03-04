@@ -41,10 +41,14 @@ I actively pursue continuous learning. Here is my complete verified credential p
 * 💻 Building Python scripts and C mini-projects
 
 ---
-📫 **Reach out to me:** Drop me an email at **nishantwalse@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/nishant-walse)!
+### 📫 Reach out to me:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishantwalse@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-walse)
+
 ---
 ### 📊 GitHub Stats
 
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishantScripts&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantScripts&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantScripts&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantScripts&layout=compact&theme=dark)
