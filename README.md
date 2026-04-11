@@ -18,6 +18,7 @@ I'm a 1st-year Computer Science Engineering student passionate about writing cle
 I actively pursue continuous learning. Here is my complete verified credential portfolio:
 
 **Python, Data & Cloud:**
+* **[Generative AI: Elevate Your Data Science Career](https://www.coursera.org/account/accomplishments/records/SZ1BFTD82PEX)** by *IBM* (Apr 2026) | ID: `SZ1BFTD82PEX`
 * **[Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/records/6JL27BI3IJP8)** by *IBM* (Mar 2026) | ID: `6JL27BI3IJP8`
 * **[Developing Applications in Python on AWS](https://www.coursera.org/account/accomplishments/records/J3WP5J14HW3Z)** by *Amazon Web Services* (Feb 2026) | ID: `J3WP5J14HW3Z`
 * **[Crash Course on Python](https://www.coursera.org/account/accomplishments/records/D63TRN0YTHKZ)** by *Google* (Feb 2026) | ID: `D63TRN0YTHKZ`
