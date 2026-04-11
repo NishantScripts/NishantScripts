@@ -48,8 +48,10 @@ I actively pursue continuous learning. Here is my complete verified credential p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-walse)
 
 ---
+
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantScripts&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantScripts&show_icons=true&theme=dark&v=2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantScripts&layout=compact&theme=dark&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantScripts&layout=compact&theme=dark&v=2)
+
