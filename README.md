@@ -51,8 +51,9 @@ I actively pursue continuous learning. Here is my complete verified credential p
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NishantScripts&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-stats-server.vercel.app/api?username=NishantScripts&show_icons=true&theme=dark&hide_border=true)
 
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=NishantScripts&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-stats-server.vercel.app/api/top-langs/?username=NishantScripts&layout=compact&theme=dark&hide_border=true)
+
 
