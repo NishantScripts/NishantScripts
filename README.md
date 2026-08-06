@@ -12,7 +12,7 @@ I'm a 1st-year Computer Science Engineering student passionate about writing cle
 * 🔍 **Troubleshooting & Debugging** (Google Certified)
 * 🛡️ **Cybersecurity Basics** (Cisco Certified)
 * 📊 **Data Processing & Automation**
-  
+  
 
 ### 🏆 Licenses & Certifications
 I actively pursue continuous learning. Here is my complete verified credential portfolio:
@@ -51,7 +51,8 @@ I actively pursue continuous learning. Here is my complete verified credential p
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantScripts&show_icons=true&theme=dark&hide_border=true&v=1)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NishantScripts&show_icons=true&theme=dark&hide_border=true)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantScripts&layout=compact&theme=dark&hide_border=true&v=1)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=NishantScripts&layout=compact&theme=dark&hide_border=true)
+
