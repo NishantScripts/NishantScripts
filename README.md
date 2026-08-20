@@ -1,6 +1,6 @@
 # Hi there, I'm Nishant! 👋
 
-I'm a 1st-year Computer Science Engineering student passionate about writing clean code and building practical solutions. I'm actively expanding my knowledge in Data Science, Cloud applications, and software debugging.
+I'm a 2nd-year Computer Science Engineering student passionate about writing clean code and building practical solutions. I'm actively expanding my knowledge in Data Science, Cloud applications, and software debugging.
 
 ### 🛠️ Tech Stack & Skills
 
